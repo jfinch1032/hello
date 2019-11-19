@@ -1,0 +1,2 @@
+# Track Vagrantfile but not Vagrant generated files.
+.vagrant
